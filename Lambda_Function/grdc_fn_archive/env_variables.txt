@@ -1,0 +1,7 @@
+#Environment variables need to be setup in AWS
+
+
+Key                           Value
+destbucket	                cld-aws-emea-dev-veevavaultlayer-grdc-dev
+srcbucket_folder	        grdc-destination/
+target_folder_name	        grdc-archive/archive/

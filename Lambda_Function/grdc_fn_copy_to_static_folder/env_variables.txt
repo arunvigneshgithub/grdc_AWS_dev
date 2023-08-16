@@ -1,0 +1,8 @@
+#Environment variables need to be setup in AWS
+
+
+Key                             Value
+dest_subfldr_path	            grdc-destination/
+destbucket	                    cld-aws-emea-dev-veevavaultlayer-grdc-dev
+src_subfldr_path	            ScheduledDataExports/136157/
+srcbucket	                    cld-aws-emea-dev-veevavaultlayer-grdc-dev
